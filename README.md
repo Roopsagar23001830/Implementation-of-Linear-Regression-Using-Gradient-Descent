@@ -129,11 +129,12 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 
 ### Profit for the Population 35,000 :
 
-![profit prediction-1](https://github.com/user-attachments/assets/7529a7e3-3825-4d2c-9510-8047ae0ea876)
+![profit for polution 1](https://github.com/user-attachments/assets/c346cd88-9280-45c3-9aa3-0c2f126beb3c)
 
 ### Profit for the Population 70,000 :
 
-![profit-prediction 2](https://github.com/user-attachments/assets/3cfe7b55-28b6-49cc-aefa-a2a70b2d8a39)
+![profit polution 2](https://github.com/user-attachments/assets/c02cb27f-08e1-4e4b-9826-1115633d1ca5)
+
 
 
 
